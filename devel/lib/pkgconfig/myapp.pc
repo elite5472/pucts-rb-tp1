@@ -1,0 +1,8 @@
+prefix=/home/gui/dev/pucrs-rb-tp1/devel
+
+Name: myapp
+Description: Description of myapp
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/gui/dev/pucrs-rb-tp1/devel/lib 
+Requires: 
